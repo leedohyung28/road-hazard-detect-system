@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897265388364",
+    "project_id": "detectionapp-9fad2",
+    "storage_bucket": "detectionapp-9fad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897265388364:android:35bcd3d7c08ce00b0edde9",
+        "android_client_info": {
+          "package_name": "com.example.detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvE3f_TCezEw1DwM9QAQlN2v61hwtAgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897265388364:android:14e061b9e333daca0edde9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvE3f_TCezEw1DwM9QAQlN2v61hwtAgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
