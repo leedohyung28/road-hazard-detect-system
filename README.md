@@ -17,7 +17,7 @@
 
 ---
 ## 📆개발 차트
-23.11 ~ 23.06
+23.11 ~ 24.06
 ![develop_chart](./readme_images/develop_chart.png)
 
 ---
